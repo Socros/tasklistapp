@@ -5,7 +5,6 @@ import json
 import os
 import sqlite3
 from sqlite3 import Error
-import pandas as pd
 
 app = Flask(__name__)
 
